@@ -59,3 +59,11 @@ test-driver
 
 # ignore folder created during compilation
 /lib/
+
+# ignore visual stidio files
+/.vs
+/out
+/contrib/OdeModelProcessor/OdeModelProcessor/obj/Debug/.NETFramework,Version=v4.0.AssemblyAttributes.cs
+/contrib/OdeModelProcessor/OdeModelProcessor/obj/Debug/OdeModelProcessor.csproj.AssemblyReference.cache
+/contrib/OdeModelProcessor/OdeModelProcessor/obj/Release/.NETFramework,Version=v4.0.AssemblyAttributes.cs
+/contrib/OdeModelProcessor/OdeModelProcessor/obj/Release/OdeModelProcessor.csproj.AssemblyReference.cache
